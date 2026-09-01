@@ -31,7 +31,7 @@ export default function Home() {
       <section className="hero" id="inicio">
         <div className="hero-copy">
           <p className="eyebrow"><span /> Estratégia que vira resultado</p>
-          <h1>Seu negócio não precisa apenas ser visto.<br />Precisa ser <em>escolhido.</em></h1>
+          <h1>Seja visto.<br />Seja escolhido.</h1>
           <p className="lead">Transformamos mídia paga em crescimento real — com estratégia, criatividade e dados trabalhando para atrair as pessoas certas.</p>
           <div className="hero-actions">
             <a className="button" href="https://wa.me/554388635665" target="_blank" rel="noreferrer">Quero atrair mais clientes <span>↗</span></a>
